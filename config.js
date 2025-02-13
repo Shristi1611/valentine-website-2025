@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Mere Valentine banoge, Jaaniiiiii? 🖤🖤",
+    pageTitle: "Mere Valentine banoge, Jaaniiiiiiiii? 🖤🖤",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
