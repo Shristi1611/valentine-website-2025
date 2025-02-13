@@ -9,13 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Mere Valentine banoge, Jaaniiiiii? 💝",
+    pageTitle: "Mere Valentine banoge, Jaaniiiiii? 🖤🖤",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻', '🐥', '🐣', '🤍']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,12 +25,12 @@ const CONFIG = {
             text: "Do you like me, jaaaanii?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you cutuuuu! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you cutuuuu! ❤🤍"           // Secret hover message
         },
         second: {
             text: "How much do you love me, babyyyjiiii?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next hehehe ❤️"                                         // Text for the next button
+            nextBtn: "Next hehehe ❤🤍"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025 and in every coming year? 🌹", // The big question!
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "YAYYYYYYYYYYYYYYYYY CUTUU IS HAPPII HAPPPII HAPPPPPPPPIIIIII! 🎉💝💖💝💓",
         message: "Aab idhar aao, gift loooooooooo! KISSSISSSSS",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝💋❤️💕🖤🧸🐻🐥🐣🤍 // These will bounce around
     },
 
     // Color scheme for the website
